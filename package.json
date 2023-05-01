@@ -1,5 +1,6 @@
 {
   "name": "vueapp",
+  "homepage": "https://kodedocker.github.io/vueapp/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
